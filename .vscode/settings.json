@@ -1,0 +1,7 @@
+{
+  "editor.tabSize": 2,
+  "vetur.format.options.useTabs": true,
+	"editor.insertSpaces": false,
+  "editor.parameterHints.enabled": false,
+  "editor.detectIndentation": false
+}
